@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Product_Type
+1,Macrogol,Health Supplement
+2,Glucosamine,Health Supplement
+3,Fiber Supplements,Health Supplement
+4,Magnesium Supplements,Health Supplement
+5,Calcium Supplements,Health Supplement
+6,Protein Powder,Health Supplement
+7,Vitamin C,Health Supplement
+8,Vitamin D,Health Supplement
+9,Probiotics,Health Supplement
+10,Omega-3,Health Supplement
+11,Multivitamins,Health Supplement
+12,Aspirin,Medicine
+13,Diclofenac,Medicine
+14,Atorvastatin,Medicine
+15,Losartan,Medicine
+16,Metformin,Medicine
+17,Artificial tears,Medicine
+18,Amoxicillin,Medicine
+19,Omeprazole,Medicine
+20,Pantoprazole,Medicine
